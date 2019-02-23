@@ -1,7 +1,9 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-02-23 23:22:28 -0400
+title: "Make HomePage"
+date: 2019-02-24 22:48:08 -0400
 categories: jekyll update
 ---
 
-Hello There!
+트위터나 페이스북 등 영향력 있는 회사들 뿐만 아니라 국내 기업들도 오픈소스 프로젝트를 진행할 때는 github를 이용해서 코드를 배포하거나 오픈소스를 관리하기도 한다.
+이러한 github에서 페이지기능이 있어서 github에 내 프로젝트등을 올려볼겸 페이지도 만들어 봤다.
+전에 만들었던 페이지는 jcloud위에 인스턴스를 올린 로컬 머신에서 돌렸는데 github.com이나 tistory.com 같은 안정화된 서비스를 사용하는게 좋을것 같아서 천천히 이전하려고 하고 틈틈히 업데이트 하면서 꾸며나가야겠다.
