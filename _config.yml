@@ -118,8 +118,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:wndyd9557@gmail.com
-    - label: "Work"
-      icon: "ffas fa-fw fa-link"
+    - label: "Lab"
+      icon: "fas fa-fw fa-link"
       url: "http://oslab.chonbuk.ac.kr/"
     - label: "Note"
       icon: "fas fa-fw fa-link"
