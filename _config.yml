@@ -111,13 +111,10 @@ analytics:
 author:
   name             : "JuYong Seong"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a college student."
+  bio              : "I am a university student."
   location         : "Jeonju, Jeollabuk-do, Korea"
   email            : "wndyd9557@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:wndyd9557@gmail.com
     - label: "Lab"
       icon: "fas fa-fw fa-link"
       url: "http://oslab.chonbuk.ac.kr/"
