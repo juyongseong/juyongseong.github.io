@@ -8,3 +8,8 @@
 @import "minimal-mistakes"; // main partials
 
 $paragraph-indent true
+
+/* system typefaces */
+$serif      : Georgia, Times, serif;
+$sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace  : Monaco, Consolas, "Lucida Console", monospace;
