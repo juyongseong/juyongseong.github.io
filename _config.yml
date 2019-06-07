@@ -79,7 +79,7 @@ google:
   search_engine_id       : "006062220533057967345:rljzxdmmcsq" # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "google-site-verification=DAscu9gtWE0tPVXMwQ4JBAasvkUSLSYP6MhWxvC7H_k"
+google_site_verification : "DAscu9gtWE0tPVXMwQ4JBAasvkUSLSYP6MhWxvC7H_k"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
