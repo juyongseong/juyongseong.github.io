@@ -92,7 +92,20 @@ body {
         overflow: hidden;
         z-index: -1;
     }
+
 }
+//juyong
+.box {
+                 width: 150px;
+                 height: 150px; 
+                 border-radius: 30%;
+                 overflow: hidden;
+            }
+            .profile {
+                 width: 100%;
+                 height: 100%;
+                 object-fit: cover;
+            }
 
 // No JS styles
 .no-js {
